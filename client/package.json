@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "",
-    "watch": "webpack-dev-server --inline --hot",
-    "build": "webpack"
+       "watch": "webpack-dev-server --inline --hot",
+       "build": "webpack",
+       "heroku-postbuild": "webpack",
+       "postinstall": "npm install express",
+       "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
