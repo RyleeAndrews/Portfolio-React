@@ -19,5 +19,40 @@
   "bugs": {
     "url": "https://github.com/RyleeAndrews/Portfolio-React/issues"
   },
-  "homepage": "https://github.com/RyleeAndrews/Portfolio-React#readme"
+  "homepage": "https://github.com/RyleeAndrews/Portfolio-React#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
+    "eslint": "^5.6.1",
+    "eslint-plugin-react": "^7.11.1",
+    "history": "^4.7.2",
+    "html-webpack-plugin": "^3.2.0",
+    "install-peers": "^1.0.2",
+    "jest": "^23.6.0",
+    "jest-css-modules": "^1.1.0",
+    "mini-css-extract-plugin": "^0.4.3",
+    "node": "^10.11.0",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.2",
+    "react-browser-router": "^2.1.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-test-renderer": "^16.5.2",
+    "redux": "^4.0.0",
+    "resolve-url-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "svg-inline-loader": "^0.8.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
+  }
 }
